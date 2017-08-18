@@ -17,9 +17,7 @@
 
 ## Write-up
 
-The hints reference (https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html), and the steps in there are basically exactly what you need to do. Another guide is below:
- 
-Guide: (https://help.ubuntu.com/community/SSH/OpenSSH/Keys)
+The hints reference https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html, and the steps in there are basically exactly what you need to do. Another guide is https://help.ubuntu.com/community/SSH/OpenSSH/Keys.
 
 My directions:
 
