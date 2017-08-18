@@ -1,6 +1,6 @@
 # picoCTF 2017 write-ups
 
-* <TODO>
+* [Team writeups](https://ctftime.org/event/443/tasks/)
 * [Scoreboard](TODO) or [local alternative](TODOLOCAL)
 
 ## Completed write-ups
