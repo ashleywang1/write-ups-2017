@@ -27,7 +27,7 @@
 * [cryptography/compute-aes-50](cryptography/compute-aes-50)
 * [cryptography/compute-rsa-50](cryptography/compute-rsa-50)
 * [cryptography/hash101-50](cryptography/hash101-50)
-* [cryptography/keyz-2](cryptography/keyz-2)
+* [cryptography/keyz-20](cryptography/keyz-20)
 * [cryptography/leaked-hashes-90](cryptography/leaked-hashes-90)
 * [cryptography/so-random-75](cryptography/so-random-75)
 * [cryptography/substitute-40](cryptography/substitute-40)
