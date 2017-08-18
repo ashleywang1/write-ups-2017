@@ -9,6 +9,7 @@
 * [forensics/digital-camouflage-50](forensics/digital-camouflage-50)
 * [forensics/special-agent-user-50](forensics/special-agent-user-50)
 * [web-exploitation/what-is-web-20](web-exploitation/what-is-web-20)
+* [misc/internet-kitties-10](misc/internet-kitties-10)
 
 ## External write-ups only
 
@@ -36,7 +37,6 @@
 * [forensics/meta-find-me-70](forensics/meta-find-me-70)
 * [master/lazy-dev-50](master/lazy-dev-50)
 * [master/missing-identity-100](master/missing-identity-100)
-* [misc/internet-kitties-10](misc/internet-kitties-10)
 * [misc/leaf-of-the-forest-30](misc/leaf-of-the-forest-30)
 * [misc/leaf-of-the-tree-20](misc/leaf-of-the-tree-20)
 * [misc/looooong-20](misc/looooong-20)
