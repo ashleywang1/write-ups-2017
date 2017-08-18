@@ -25,21 +25,21 @@ Prerequisite/Terminology: You are trying to SSH FROM one machine A to machine B.
 
 
 1.	Create a .ssh folder with very few permissions (see the guide). This is the **really important part**. If your .ssh file has worldwide READ permissions, then **none of the following will work** because the ssh program will think your keys were stolen.
-	a.	```chmod 700 .ssh``` from the very beginning.
-	b.	NOT ```chmod 600 .ssh``!!! This will make it impossible to ssh onto that machine!
+	1.	```chmod 700 .ssh``` from the very beginning.
+	2.	NOT ```chmod 600 .ssh``!!! This will make it impossible to ssh onto that machine!
 2.	Generate a keypair on your client
 ``ssh-keygen -t rsa -b 4096```
 This generates a public and private key. The public key file usually ends in .pub and the private keyfile either has no ending or ends in .ppk.
 3.	Look at your public keyfile. You should see something like
-	> ssh-rsa **<long string of numbers and letters and maybe some slashes>**
+	> ssh-rsa <**long string of numbers and letters and maybe some slashes**>
 4.	In your remote host, add your public key to your authorized_keys file in .ssh folder.
-> ```echo "**<your public key text>**" > /.ssh/authorized_keys```
-5.	**Don't forget to actually add your private key** n both your client.  Add the private key into your ssh-agent using ```ssh-add```.
+> ```echo "<your public key>" > /.ssh/authorized_keys```
+5.	**Don't forget to actually add your private key** to your client.  Add the private key into your ssh-agent using ```ssh-add```.
 
 
 SOLUTION:
 
-> ```ssh **<your_username>**@shell2017.picoctf.com```
+> ```ssh <your_username>@shell2017.picoctf.com```
 >Congratulations on setting up SSH key authentication!
 >Here is your flag: who_needs_pwords_anyways
 
