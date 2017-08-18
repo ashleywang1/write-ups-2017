@@ -5,7 +5,10 @@
 
 ## Completed write-ups
 
-* none yet
+* [binary-exploitation/bash-loop-40](binary-exploitation/bash-loop-40)
+* [forensics/digital-camouflage-50](forensics/digital-camouflage-50)
+* [forensics/special-agent-user-50](forensics/special-agent-user-50)
+* [web-exploitation/what-is-web-20](web-exploitation/what-is-web-20)
 
 ## External write-ups only
 
@@ -13,7 +16,6 @@
 
 ## Missing write-ups
 
-* [binary-exploitation/bash-loop-40](binary-exploitation/bash-loop-40)
 * [binary-exploitation/flagsay-1-80](binary-exploitation/flagsay-1-80)
 * [binary-exploitation/guess-the-number-75](binary-exploitation/guess-the-number-75)
 * [binary-exploitation/ive-got-a-secret-75](binary-exploitation/ive-got-a-secret-75)
@@ -29,11 +31,9 @@
 * [cryptography/so-random-75](cryptography/so-random-75)
 * [cryptography/substitute-40](cryptography/substitute-40)
 * [cryptography/wierd-rsa-90](cryptography/wierd-rsa-90)
-* [forensics/digital-camouflage-50](forensics/digital-camouflage-50)
 * [forensics/just-keep-trying-80](forensics/just-keep-trying-80)
 * [forensics/little-school-bus-75](forensics/little-school-bus-75)
 * [forensics/meta-find-me-70](forensics/meta-find-me-70)
-* [forensics/special-agent-user-50](forensics/special-agent-user-50)
 * [master/lazy-dev-50](master/lazy-dev-50)
 * [master/missing-identity-100](master/missing-identity-100)
 * [misc/internet-kitties-10](misc/internet-kitties-10)
@@ -51,4 +51,3 @@
 * [web-exploitation/my-first-sql-50](web-exploitation/my-first-sql-50)
 * [web-exploitation/tw-gr-e1-art-100](web-exploitation/tw-gr-e1-art-100)
 * [web-exploitation/tw-gr-e2-eotds-120](web-exploitation/tw-gr-e2-eotds-120)
-* [web-exploitation/what-is-web-20](web-exploitation/what-is-web-20)
