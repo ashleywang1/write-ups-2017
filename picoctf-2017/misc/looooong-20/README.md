@@ -19,7 +19,22 @@
 
 ## Write-up
 
-(TODO)
+Connect with ```nc shell2017.picoctf.com 59858```
+
+You're greeted with the prompt:
+```To prove your skills, you must pass this test.
+Please give me the 'W' character '581' times, followed by a single '4'.
+To make things interesting, you have 30 seconds.
+Input:
+```
+
+You definitely can't do this by hand, so you can use python.
+```'W'*581+'4'```
+
+Copy-and-pasting the output within 30 seconds gives you:
+```You got it! You're super quick!
+Flag: with_some_recognition_and_training_delusions_become_glimpses_ee260d1c785fd08f5d78753feae3c553
+```
 
 ## Other write-ups and resources
 
