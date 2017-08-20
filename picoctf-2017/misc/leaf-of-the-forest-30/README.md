@@ -15,7 +15,13 @@
 
 ## Write-up
 
-(TODO)
+```find -iname "flag"``` results in
+```./forest/tree2763a4/trunk764d/trunke6d5/trunk7905/trunk0008/trunk95d7/trunkcbe5/trunk2319/branchc790/flag```
+
+```cat ./forest/tree2763a4/trunk764d/trunke6d5/trunk7905/trunk0008/trunk95d7/trunkcbe5/trunk2319/branchc790/flag``` results in
+
+FLAG:
+```395ba83a5a494eb04f43e15020577a75```
 
 ## Other write-ups and resources
 
