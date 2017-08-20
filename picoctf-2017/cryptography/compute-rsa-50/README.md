@@ -15,7 +15,12 @@
 
 ## Write-up
 
-(TODO)
+Using the equation
+
+> decrypted = (encrypted) ^ d mod N
+
+SOLUTION:
+133337
 
 ## Other write-ups and resources
 
