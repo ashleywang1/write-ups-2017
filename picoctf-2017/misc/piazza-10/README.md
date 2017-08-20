@@ -10,7 +10,10 @@
 
 ## Write-up
 
-(TODO)
+```
+flag{ask_and_hop3fully_we_can_help}
+
+```
 
 ## Other write-ups and resources
 
