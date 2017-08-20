@@ -14,8 +14,10 @@
 
 
 ## Write-up
+```cat trunk/trunk47a0/trunk599f/trunk4e66/trunke117/trunk64f5/trunk9721/trunk1e42/flag```
 
-(TODO)
+SOLUTION:
+```a2916629ba334b79632b6af945131ea2```
 
 ## Other write-ups and resources
 
